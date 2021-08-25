@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Heltec Automation Docs'
-copyright = '2019, Heltec'
+project = 'Heltec Hotspot Docs'
+copyright = '2021, Heltec'
 author = 'Heltec'
 master_doc = 'index'
 

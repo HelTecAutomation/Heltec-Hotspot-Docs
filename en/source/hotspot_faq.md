@@ -20,7 +20,7 @@ Answer:
 
 &nbsp;
 
-# Heltec Hotspot Relevant FAQ
+## Heltec Hotspot Relevant FAQ
 
 #### Question: Will Heltec Indoor Hotspot have Australian version support?
 

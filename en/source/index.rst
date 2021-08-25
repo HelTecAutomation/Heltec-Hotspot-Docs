@@ -1,6 +1,5 @@
 Heltec Hotspot Document Page
 =============================
-`简体中文 <https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/index.html>`_
 
 This is the documentation for `Heltec Indoor/Outdoor/Light Hotspot <https://heltec.org>`_ .
    
