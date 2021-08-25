@@ -1,26 +1,26 @@
-# Heltec Hotspot FAQ
+# Heltec Hotspot FAQ Page
 
 ## About FAQ
 
-If you have any questions about Heltec Indoor/Outdoor/Light Hotspot, you can get the official reply from Heltec in the following three ways:
+If you have any questions about Heltec Indoor/Outdoor/Light Hotspot, you can get the official reply from Heltec in the following 4 ways:
 
-1. **Recommended** -- Submit a PR to [this project](https://github.com/HelTecAutomation/Heltec-Hotspot-Docs). When we approve your PR, we will also answer your questions and will be shown in this page.  
+1. **Recommended** -- Submit a PR to [this project](https://github.com/HelTecAutomation/Heltec-Hotspot-Docs). When we approve your PR, we will also answer your questions and will be shown on this page.  
 2. Send your question to Heltec support email: [support@Heltec.cn](mailto:support@Heltec.cn)
-3. Open a topic under `Heltec Hotspot` in [Heltec Community](http://community.heltec.cn/)
+3. Reply [this topic](http://community.heltec.cn/t/heltec-indoor-outdoor-light-hotspot-faq-submit/5799) in Heltec Community
 4. Talk in [Heltec Discord Channel](https://discord.gg/Pt85TrZfxZ)
 
 ### FAQ submit formart example
 
 ```
-#### Question: [Your question 1 here]? [If you have more than one question, here is your other questions]?
+#### Question: [Your question 1 here]? [If you have more than one question, here are your other questions]?
 Answer:
 ```
 
-**===========================================**
+**===========================================================**
 
-**===========================================**
+&nbsp;
 
-# FAQ
+# Heltec Hotspot Relevant FAQ
 
 #### Question: Will Heltec Indoor Hotspot have Australian version support?
 
