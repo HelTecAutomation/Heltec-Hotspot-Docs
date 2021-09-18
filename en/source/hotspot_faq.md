@@ -78,3 +78,33 @@ Answer: We call it inner hole inner thread. Can be used directly with Heltec Ind
 Answer: The device itself does not have the PoE function, but it can be realized through a [PoE splitter]().
 
 ![](img/faq/03.png)
+
+
+
+#### Question: What is the material of the Heltec Indoor Hotspot shell?
+
+Answer: The body is made of 6063 aluminum alloy, which has good mechanical strength and thermal conductivity. And the top panel is tempered glass.
+
+&nbsp;
+
+#### Question: Does Heltec Indoor Hotspot support remote modification of the working frequency band?
+
+From the feedback of our customers, we often encounter such situations:
+
+1. I purchased the Heltec Indoor Hotspot with the AU915 frequency band, but Australia is about to use the AS923 frequency band for Helium network.
+2. I am on a business trip or studying in the United States, and now I am going back home (such as Thailand, Singapore and some other Southeast Asian countries). Heltec Indoor Hotspot is my property. I hope I can take it home with me.
+
+What should I do when a similar scenario above happens to you? You may want ask can I switch the working frequency band through the remote page?
+
+The hardware configuration in the frequency range of 902～928MHz is the same, and the hardware configuration in the frequency range of 863～870MHz is the same. The working frequency band is realized through software configuration. **So the answer is YES**. We have implemented this feature, but it is not yet open. Before we open this function, please contact us and we will assist you to complete the remote modification.
+
+&nbsp;
+
+#### Question: There is a small hole marked with R on the back of the machine. What is the purpose? Is it the reset button?
+
+![](img/faq/04.png)
+
+Answer: No, it's not reset button. The reset button is the power button on the front of the Heltec Indoor Hotspot. Press once to reset, long press than 4 seconds to shut down.
+
+The button marked with "R" is used to manually flash the system firmware. The usage method will be introduced in the follow-up document.
+
