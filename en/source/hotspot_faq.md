@@ -54,13 +54,17 @@ After you get in touch with Heltec and confirm the business details (before paym
 
 Answer: In the panic buying event on October 1, we added the option of bank transfer. After placing the order, the status of your order will become ‘On hold’. After your transfer is successful to this [bank account](https://resource.heltec.cn/download/Heltec_Automation_Bank_Account_Statement.pdf), please send the transfer information to [finance@heltec.cn](finance@heltec.cn) after the transfer is successful. The email format is as follows:
 
-***E-mail title: Proof of Payment***
+----------------------------------------------------------------
 
-***Order number: #6xxx***
+**E-mail title:** Proof of Payment
+
+**Order number:** *#6xxx*
 
 ***And please attach the transfer bill of your bank.***
 
-It usually takes 1 to 3 days to reach our account. After reaching the account, we will manually verify and set your bill to processing status. 
+--------------------------------
+
+It usually takes 1 to 3 work days to reach our bank account. After reaching the account, we will manually verify and set your bill to processing status. 
 
 **Starting from the time of placing the order, if our bank account not receive your payment within 7 working days, we will cancel the order.**
 
