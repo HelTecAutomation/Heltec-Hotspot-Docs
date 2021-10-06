@@ -26,6 +26,8 @@ Answer:
 
 Answer: All Heltec orders will be shipped within 30 working days. Unfortunately, the precise delivery time depends on the production department and the warehouse’s ordering situation, so we can’t estimate it, but we can be sure that we will ship the goods as quickly as possible within 30 working days in the order of payment.
 
+&nbsp;
+
 #### Question: What is the delivery method? DHL or Fedex?
 
 **Answer: In most cases will use FedEx, partly DHL.**
@@ -38,6 +40,8 @@ Our company is located in Chengdu, an inland city of China. The local DHL in our
 2. The express company in Shenzhen sends the goods to Hong Kong;
 3. Wait in line for the warehouse and send the goods to all over the world by Hong Kong DHL.
 
+&nbsp;
+
 #### Question: I have some questions regarding the invoice
 
 Answer:
@@ -49,6 +53,8 @@ You will be able to download an invoice on the “[My Account](https://heltec.or
 - **If place an order via [Heltec’s offline sales channel](https://heltec.org/offline-sales/)**
 
 After you get in touch with Heltec and confirm the business details (before payment), our sales staff will send you an email with an invoice attachment. You can communicate your request for an invoice with our sales staff.
+
+&nbsp;
 
 #### Question: If I place an order on the website and choose the payment method of bank transfer, how many days do I have to pay?
 
@@ -67,6 +73,18 @@ Answer: In the panic buying event on October 1, we added the option of bank tran
 It usually takes 1 to 3 work days to reach our bank account. After reaching the account, we will manually verify and set your bill to processing status. 
 
 **Starting from the time of placing the order, if our bank account not receive your payment within 7 working days, we will cancel the order.**
+
+&nbsp;
+
+#### Question: I placed an order on the Heltec website, but I did not receive the order confirmation email.
+
+Answer: We are very sorry about this. During the limited time offer, too many orders caused the system to be congested, which may cause some emails to fail to be sent. We are fixing this problem. If not received the confirmation email, that's does not affect our arrangement of your order.
+
+If you need this email as a voucher, you can send the following content to [jiang.qiuyue@heltec.cn](mailto:jiang.qiuyue@heltec.cn)
+
+```
+Please resend the confirmation email for order #64xxx
+```
 
 &nbsp;
 
