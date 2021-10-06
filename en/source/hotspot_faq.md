@@ -88,6 +88,23 @@ Please resend the confirmation email for order #64xxx
 
 &nbsp;
 
+#### Question: If my order is paid by HNT, what is my payment process?
+
+Answer: Starting from October 6th, for offline orders with a quantity of less than 100 sets, we can accept HNT as the payment method. Please pay according to the amount in the invoice sent to you by our sales staff.
+**Receiving wallet address:** `14MyhtRdt16umDTUQzVDj26oWVPYUaJpHHcLbkKKNLH7Emi2hLd`
+
+```Note:: This payment method is still in the beta process.
+
+```
+
+&nbsp;
+
+#### Question: Why Heltec only receive HNT Crypto but not USDT, Bitcoin, etc.?
+
+Answer: Because mainland China has many restrictions when using crypto such as USDT or Bitcoin for transactions.
+
+&nbsp;
+
 ## Heltec Hotspot Relevant FAQ
 
 #### Question: Will Heltec Indoor Hotspot have Australian version support?
