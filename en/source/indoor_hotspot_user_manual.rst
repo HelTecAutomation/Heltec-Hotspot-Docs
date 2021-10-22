@@ -68,10 +68,10 @@ Power Button Description
 ------------------------
 
 * Short press: Restart the system.
-* Press longer than 3 seconds<sup>1</sup>: System shut down.
+* Press longer than 3 seconds [1]_: System shut down.
 * The blue light of the power button flashes five minutes after the device is powered on or reset, and Hotspot's Bluetooth can be found and paired at this time.
 
-<sup>1</sup>Long press the button for 3 seconds, and then release the button when the LED lights are all off.
+.. [1] Long press the button for 3 seconds, and then release the button when the LED lights are all off.
 
 Bluetooth Description
 ---------------------
