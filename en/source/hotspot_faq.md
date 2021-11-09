@@ -96,7 +96,7 @@ Because the price of HNT fluctuates so much that we often encounter situations l
 
 This situation will greatly increase our workload, so we changed to accept the more stable USDT as the payment method.
 
-**Receiving wallet address:** `TJHxKs5cuN9j1dh71wGvY2GHXrVYHs9vU5`
+**Receiving wallet address:** `TJHxKs5cuN9j1dh71wGvY2GHXrVYHs9vU5`(TRC20)
 
 ```Note:: This payment method is still in the beta process.
 
