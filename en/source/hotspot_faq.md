@@ -91,6 +91,7 @@ Please resend the confirmation email for order #64xxx
 #### ~~Question: If my order is paid by HNT, what is my payment process?~~
 
 ~~Answer: Starting from October 6th, for offline orders with a quantity of less than 100 sets, we can accept HNT as the payment method. Please pay according to the amount in the invoice sent to you by our sales staff.~~
+
 ~~**Receiving wallet address:** `14MyhtRdt16umDTUQzVDj26oWVPYUaJpHHcLbkKKNLH7Emi2hLd`~~
 
 &nbsp;
@@ -99,7 +100,7 @@ Please resend the confirmation email for order #64xxx
 
 Answer: Because the price of HNT fluctuates so much that we often encounter situations like this: For example, yesterday the price of HNT was 22 USD, but today suddenly reached 30 USD, then the customer who paid $22 yesterday asked for a refund. After the refund was completed, then placed an order again and traded at a price of $30.
 
-This situation will greatly increase our workload, so we changed to accept the more stable USDT as the payment method. USDT payment address please refer to the sales staff who contact you.
+This situation will greatly increase our workload, **so we changed to accept the more stable USDT as the payment method. USDT payment address please refer to the sales staff who contact you.**
 
 &nbsp;
 
