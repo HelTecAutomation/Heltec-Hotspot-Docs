@@ -56,26 +56,6 @@ After you get in touch with Heltec and confirm the business details (before paym
 
 &nbsp;
 
-#### ~~Question: If I place an order on the website and choose the payment method of bank transfer, how many days do I have to pay?~~
-
-~~Answer: In the panic buying event on October 1, we added the option of bank transfer. After placing the order, the status of your order will become ‘On hold’. After your transfer is successful to this [bank account](https://resource.heltec.cn/download/Heltec_Automation_Bank_Account_Statement.pdf), please send the transfer information to [finance@heltec.cn](finance@heltec.cn) after the transfer is successful. The email format is as follows:~~
-
-----------------------------------------------------------------
-
-~~**E-mail title:** Proof of Payment~~
-
-~~**Order number:** *#6xxx*~~
-
-~~***And please attach the transfer bill of your bank.***~~
-
---------------------------------
-
-~~It usually takes 1 to 3 work days to reach our bank account. After reaching the account, we will manually verify and set your bill to processing status.~~ 
-
-~~**Starting from the time of placing the order, if our bank account not receive your payment within 7 working days, we will cancel the order.**~~
-
-&nbsp;
-
 #### Question: I placed an order on the Heltec website, but I did not receive the order confirmation email.
 
 Answer: We are very sorry about this. During the limited time offer, too many orders caused the system to be congested, which may cause some emails to fail to be sent. We are fixing this problem. If not received the confirmation email, that's does not affect our arrangement of your order.
@@ -85,14 +65,6 @@ If you need this email as a voucher, you can send the following content to [jian
 ```
 Please resend the confirmation email for order #64xxx
 ```
-
-&nbsp;
-
-#### ~~Question: If my order is paid by HNT, what is my payment process?~~
-
-~~Answer: Starting from October 6th, for offline orders with a quantity of less than 100 sets, we can accept HNT as the payment method. Please pay according to the amount in the invoice sent to you by our sales staff.~~
-
-~~**Receiving wallet address:** `14MyhtRdt16umDTUQzVDj26oWVPYUaJpHHcLbkKKNLH7Emi2hLd`~~
 
 &nbsp;
 
@@ -209,7 +181,8 @@ Two points:
 1. You need have an public IP address, this can be applied to the local operator department to change your network's IP address into a public IP, or it can be achieved through a VPN solution;
 2. On the the router, mapping the 44158 port to miner.
 
-``` Note:: The VPN configuration method is not within the scope of our technical support.
+``` Note:: The VPN configuration method is not within the scope of our technical support.
+
 ```
 
 &nbsp;
