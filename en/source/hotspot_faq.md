@@ -56,23 +56,23 @@ After you get in touch with Heltec and confirm the business details (before paym
 
 &nbsp;
 
-#### Question: If I place an order on the website and choose the payment method of bank transfer, how many days do I have to pay?
+#### ~~Question: If I place an order on the website and choose the payment method of bank transfer, how many days do I have to pay?~~
 
-Answer: In the panic buying event on October 1, we added the option of bank transfer. After placing the order, the status of your order will become ‘On hold’. After your transfer is successful to this [bank account](https://resource.heltec.cn/download/Heltec_Automation_Bank_Account_Statement.pdf), please send the transfer information to [finance@heltec.cn](finance@heltec.cn) after the transfer is successful. The email format is as follows:
+~~Answer: In the panic buying event on October 1, we added the option of bank transfer. After placing the order, the status of your order will become ‘On hold’. After your transfer is successful to this [bank account](https://resource.heltec.cn/download/Heltec_Automation_Bank_Account_Statement.pdf), please send the transfer information to [finance@heltec.cn](finance@heltec.cn) after the transfer is successful. The email format is as follows:~~
 
 ----------------------------------------------------------------
 
-**E-mail title:** Proof of Payment
+~~**E-mail title:** Proof of Payment~~
 
-**Order number:** *#6xxx*
+~~**Order number:** *#6xxx*~~
 
-***And please attach the transfer bill of your bank.***
+~~***And please attach the transfer bill of your bank.***~~
 
 --------------------------------
 
-It usually takes 1 to 3 work days to reach our bank account. After reaching the account, we will manually verify and set your bill to processing status. 
+~~It usually takes 1 to 3 work days to reach our bank account. After reaching the account, we will manually verify and set your bill to processing status.~~ 
 
-**Starting from the time of placing the order, if our bank account not receive your payment within 7 working days, we will cancel the order.**
+~~**Starting from the time of placing the order, if our bank account not receive your payment within 7 working days, we will cancel the order.**~~
 
 &nbsp;
 
@@ -88,20 +88,18 @@ Please resend the confirmation email for order #64xxx
 
 &nbsp;
 
-#### Question: If my order is paid by HNT, what is my payment process?
+#### ~~Question: If my order is paid by HNT, what is my payment process?~~
 
-Answer: Starting from October 6th, for offline orders with a quantity of less than 100 sets, we can accept HNT as the payment method. Please pay according to the amount in the invoice sent to you by our sales staff.
-**Receiving wallet address:** `14MyhtRdt16umDTUQzVDj26oWVPYUaJpHHcLbkKKNLH7Emi2hLd`
-
-```Note:: This payment method is still in the beta process.
-
-```
+~~Answer: Starting from October 6th, for offline orders with a quantity of less than 100 sets, we can accept HNT as the payment method. Please pay according to the amount in the invoice sent to you by our sales staff.~~
+~~**Receiving wallet address:** `14MyhtRdt16umDTUQzVDj26oWVPYUaJpHHcLbkKKNLH7Emi2hLd`~~
 
 &nbsp;
 
-#### Question: Why Heltec only receive HNT Crypto but not USDT, Bitcoin, etc.?
+#### Question: Why Heltec canceled HNT as a payment method?
 
-Answer: Because mainland China has many restrictions when using crypto such as USDT or Bitcoin for transactions.
+Answer: Because the price of HNT fluctuates so much that we often encounter situations like this: For example, yesterday the price of HNT was 22 USD, but today suddenly reached 30 USD, then the customer who paid $22 yesterday asked for a refund. After the refund was completed, then placed an order again and traded at a price of $30.
+
+This situation will greatly increase our workload, so we changed to accept the more stable USDT as the payment method. USDT payment address please refer to the sales staff who contact you.
 
 &nbsp;
 
@@ -192,4 +190,62 @@ The hardware configuration in the frequency range of 902～928MHz is the same, a
 Answer: No, it's not reset button. The reset button is the power button on the front of the Heltec Indoor Hotspot. Press once to reset, long press than 4 seconds to shut down.
 
 The button marked with "R" is used to manually flash the system firmware. The usage method will be introduced in the follow-up document.
+
+
+
+#### Question: Why is my machine status is Relayed?
+
+Answer: The main reason is because the network that your miner connected does not have a public IP address. In the relayed state, miner connecting to the blockchain network via another device through the P2P network. Due to network delays and other reasons, the success rate of challenges and witnesses will decrease.
+
+&nbsp;
+
+#### Question: How can I make my miner not on the Relayed status?
+
+Answer:
+
+Two points:
+
+1. You need have an public IP address, this can be applied to the local operator department to change your network's IP address into a public IP, or it can be achieved through a VPN solution;
+2. On the the router, mapping the 44158 port to miner.
+
+``` Note:: The VPN configuration method is not within the scope of our technical support.
+```
+
+&nbsp;
+
+#### Question: How many HNT can be dig every day?
+
+Answer: As of November 11, 2021, there are a total of ~305,000 hotspots on the Helium . Excluding some offline and invalid devices, there are a total of about 280,000 valid hotspots.
+
+![](img/faq/06.png)
+
+At present, the total number of HNT that can be mined every day is ~50,000, so on average, each machine can currently dig 0.18 coins per day.
+
+![](img/faq/05.png)
+
+But this does not mean that if your miner is plugged in and connected to the network, it can generate 0.18 HNT. This is related to the network status, the number of surrounding devices, the number of challenges, and the number of witnesses. For more detail rule please refer to [Helium offical documents](https://docs.helium.com/blockchain).
+
+&nbsp;
+
+#### Answer: There are many hotspots near by, why my hotspot has very little witness rewards?
+
+Answer: First of all, is your miner in the relayed state?
+
+If it is in the relayed state, your miner connected to the main network via other devices through P2P forwarding. This is a probability problem, it is possible that the network of the device you are connected to is very poor, causing the signal from your device to fail to relay.
+
+**Now let us analyze a specific situation we encountered:**
+
+The miner received other devices' PoC signal, and send back the witness LoRa signal normal.
+
+![](img/faq/07.png)
+
+But many witness didn't send out via the network success.
+
+![](img/faq/08.png)
+
+Why does this happen? We checked its network connection. The equipment is in Europe, but its P2P network is connected to far away in the United States. The network delay caused the unsuccessful sending of witness.
+
+![](img/faq/09.png)
+
+**The above situation can also explain why the miner near me has a lot of successful witness rewards, but my miner has very few witness rewards. Just because the device with more rewards may be connected to the device closer to you through the P2P network, the network delay is smaller.**
 
