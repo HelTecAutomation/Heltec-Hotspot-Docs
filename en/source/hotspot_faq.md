@@ -94,7 +94,7 @@ Future Hotspot agents approved by Heltec will be announced on [https://heltec.or
 
 #### Question: What type of power plug does the indoor have? Barrel Jack 5.5x2.1mm or 5.5x2.5mm?
 
-Answer: 5.5 x 2.5 x 10mm
+Answer: 5.5 x 2.1 mm
 
 ![](img/faq/01.png)
 
