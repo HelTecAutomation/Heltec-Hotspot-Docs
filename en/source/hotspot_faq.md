@@ -201,7 +201,7 @@ But this does not mean that if your miner is plugged in and connected to the net
 
 &nbsp;
 
-#### Answer: There are many hotspots near by, why my hotspot has very little witness rewards?
+#### Question: There are many hotspots near by, why my hotspot has very little witness rewards?
 
 Answer: First of all, is your miner in the relayed state?
 
@@ -223,3 +223,10 @@ Why does this happen? We checked its network connection. The equipment is in Eur
 
 **The above situation can also explain why the miner near me has a lot of successful witness rewards, but my miner has very few witness rewards. Just because the device with more rewards may be connected to the device closer to you through the P2P network, the network delay is smaller.**
 
+&nbsp;
+
+#### Question: How to use external filters?
+
+Answer: Connect the filters directly between the antenna and the hotspot. We recommend using the two filters together, you can choose to use one or two filters depending on the noise around the hotspot. You can check the LoRa logs through the diagnosis page, and judge the noise level through SNR and RSSI.
+
+![](img/faq/10.png)
