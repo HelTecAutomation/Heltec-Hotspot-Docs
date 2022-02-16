@@ -230,3 +230,28 @@ Why does this happen? We checked its network connection. The equipment is in Eur
 Answer: Connect the filters directly between the antenna and the hotspot. We recommend using the two filters together, you can choose to use one or two filters depending on the noise around the hotspot. You can check the LoRa logs through the diagnosis page, and judge the noise level through SNR and RSSI.
 
 ![](img/faq/10.png)
+
+&nbsp;
+
+#### Question: How to enter the local diagnosis page?
+
+Answer: Enter the LAN IP address of Heltec Indoor Hotspot in the browser to open the local diagnostic page. 
+
+Default user name: HT-M2808
+
+Default password: The last six digits of your devices’ ETH Mac address, in lowercase. For example, your ETH address is 11:22:33:AA:BB:CC, then your default password is aabbcc.
+
+The ETH address can be found on the back label of the fuselage. If the label is broken, Plug the network cable into the device, you can see the Mac address in the router’s management page.
+
+![](img/faq/11.png)
+
+&nbsp;
+
+#### Question: Why is the hotspot firmware not updated to the latest firmware version in the Helium APP hotspot diagnostic report?
+
+![](img/faq/12.png)
+
+Answer: The Helium APP does not read the same file as the local diagnostics page, please refer to the firmware version in the local diagnostics page.
+
+![](img/faq/13.png)
+
