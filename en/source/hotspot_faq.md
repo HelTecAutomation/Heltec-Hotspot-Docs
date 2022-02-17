@@ -255,3 +255,10 @@ Answer: The Helium APP does not read the same file as the local diagnostics page
 
 ![](img/faq/13.png)
 
+&nbsp;
+
+#### Question: Why can't hotspot be activated successfully after power on?
+
+Answer: The hotspot will load the corresponding miner firmware and snapshot when it is powered on for the first time. If the firmware and snapshot are not loaded, the relevant activation commands cannot be executed, resulting in the failure of hotspot activation. You can log in to the diagnostics page via the LAN IP after the hotspot is powered on and connected to the internet, and activate it after the "block height" and "miner release" are loaded. The loading time of "block height" and "miner release" depends on the network condition of the hotspot.
+
+![](img/faq/14.png)
